@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software.
-这一行是分支加上的
+windows的记事本真的是太坑爹了
